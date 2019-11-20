@@ -64,12 +64,12 @@ h2 {
 	text-align: center;
 	text-transform: uppercase;
 	position: relative;
-	margin: 30px 0 80px;
+	margin: 30px 0 30px;
 }
 h2 b {
-	color: #ffc000;
+    color: #ffc000;
 }
-h2::after {
+/* h2::after {
 	content: "";
 	width: 100px;
 	position: absolute;
@@ -79,7 +79,7 @@ h2::after {
 	left: 0;
 	right: 0;
 	bottom: -20px;
-}
+} */
 .carousel {
 	margin: 50px auto;
 	padding: 0 70px;
@@ -260,3 +260,16 @@ ul.dropdown-cart li .item-right button{
 	height: auto;
 }
 /*hamburger*/
+
+.flex-rectangle-trendy {
+    width: 40%;
+    background: #E5A743;
+    height: 60px;
+    
+}
+
+.trendy-text {
+    font-weight: 500;
+    text-shadow: 1px 1px 1px white;
+}
+
