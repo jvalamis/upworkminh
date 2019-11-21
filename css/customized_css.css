@@ -261,6 +261,7 @@ ul.dropdown-cart li .item-right button{
 }
 /*hamburger*/
 
+/*trendy tags*/
 .flex-rectangle-trendy {
     width: 40%;
     background: #E5A743;
@@ -272,4 +273,19 @@ ul.dropdown-cart li .item-right button{
     font-weight: 500;
     text-shadow: 1px 1px 1px white;
 }
+
+
+.fav-brands {
+    padding: 0;
+    border: 0px;
+    background: none;
+    /* background:none;border:0px */
+}
+
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
 
